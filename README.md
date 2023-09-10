@@ -112,6 +112,37 @@ python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgra
 
 Both lengthy command lines follow the same format, pipering multiple commands together with the symbol ";" although you can manually run them in sequence.
 
+## Project Setup by Separately Executing Commands
+
+Additionally, you can run the preceding command separately. However, don't be confused; this command may produce identical results to previous of the run all in one command when combined. 
+
+
+Observe these procedures to configure the project environment:
+
+1. Clone the repository:
+
+git clone my_github 
+
+```bash 
+https://github.com/justinjabo250/Sales-Forecasting-And-Analysis-Of-The-Grocery-Stores
+```
+
+2. Set up the necessary dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Create a virtual environment:
+
+- **Windows:**
+  ```bash
+  python -m venv venv
+  venv\Scripts\activate
+  ```
+
+To quickly set up the project environment, copy each of the commands mentioned above and run them in your terminal.
+
 
 1. To prevent conflicts, **Create a virtual Python environment** that isolates the project's necessary libraries;
 2. **Switch on (Activate) the Python virtual environment** So that the isolated environment's kernel and libraries are used;
