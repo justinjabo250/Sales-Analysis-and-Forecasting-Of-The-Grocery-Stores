@@ -35,7 +35,7 @@ This is so because time has an impact on the majority of enterprises nowadays. S
 
 How do you tell if a dataset contains time series data? It's straightforward: if a time variable is present (often the index), the dataset is a time series dataset; if not, it is not. 
 
-
+![grcery](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/assets/115732734/6cfd92a2-4d1f-42f3-ac03-8dfaeb99e7a1)
 
 ## Aim of the project
 
@@ -272,6 +272,8 @@ It might be difficult to determine seasonality by simply looking at a chart. So 
 
 If p-value is greater than 0.05 (p-value > 0.05), sales data is stationary. Since 0.01 < 0.05, This means that our sales is non-seasonal and there is no repeating pattern over time.
 
+
+![birds-of-prey](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/assets/115732734/24a6fbbb-52b8-4ff5-9e10-41db24382de2)
 
 
 # Recommendations 
