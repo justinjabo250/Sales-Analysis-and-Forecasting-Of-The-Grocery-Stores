@@ -7,6 +7,8 @@ Azubian, a firm with grocery stores all over Africa, has recently experienced a 
 
 Azubian needs the assistance of a professional data analyst like you/me to handle these problems and enhance their company picture. They have asked you to review their sales data and make insightful suggestions for the future. With the help of your study, they will be able to properly manage their inventory and anticipate client demand by identifying the products that are most likely to run out of stock and forecasting the quantities needed. 
 
+![justin-timberlake-grocery](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/assets/115732734/7f5efed4-cd1f-4baf-b8d7-760b58818564)
+
 
 ## What is time series analysis?
 
@@ -39,7 +41,6 @@ How do you tell if a dataset contains time series data? It's straightforward: if
 
 ## Aim of the project
 
-
 In this research Project, we hope to forecast the sales of goods found in Azubian's grocery stores. Which products sell better and when do we want to know? In order to prevent overstocking or understocking, we also wish to forecast future sales. 
 
 For instance, we would like to know how much chicken to purchase for the upcoming eight weeks as well as how many tomatoes will be sold during that time. 
@@ -51,6 +52,9 @@ We would have created a machine learning model to anticipate product sales pay w
 
 Finally, we'll use Streamlit to deploy this model as a web application.
 
+Our goal is to assist business managers in forecasting the future using this data, which has been stored on file for a predetermined amount of time after the event or after it occurred.
+
+to build models use those models to make observations, and use them to guide future strategic decision-making. We would like to assist management at the grocery shop in gathering some insights from their data in order to improve operations and eventually revenue.
 
 
 Clone the repo and get started from  [here.](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores)
