@@ -1,4 +1,4 @@
-# Focast Grocery Sales Using Machine Learning 
+# Sales Analysis and Forecasting Of The Grocery Stores
 ![ride-the-cart-at-the-market](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/assets/115732734/7bff8484-afb0-4581-8730-dd45ea242d63)
  
 
