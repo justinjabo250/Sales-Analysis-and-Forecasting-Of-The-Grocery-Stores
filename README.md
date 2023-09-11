@@ -15,6 +15,8 @@ In this project, we seek to determine the possibility that a client would leave 
 
 One of any company's largest expenses is customer churn. The percentage of consumers who ceased using your company's product or service within a predetermined duration is known as customer churn, also known as customer attrition or customer turnover. For instance, if you started the year with 500 clients and completed it with 480, then 4% of those 500 customers went. It would greatly aid the company in strategizing their retention campaigns if we could determine why a client leaves and when they leave with some degree of accuracy.
 
+![grcery](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/assets/115732734/6cfd92a2-4d1f-42f3-ac03-8dfaeb99e7a1)
+
 ## DESCRIPTION
 The project aims to analyze and forecast the number of products sold per stores per weeks for a neighborhood grocery store, the goal is to develop a model that can accurately anticipate future sales using data from 54 different stores and 33 different products collected from the same country. In order to assist the management of the business develop inventory and sales plans.
 
