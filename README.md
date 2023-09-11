@@ -1,13 +1,13 @@
 # Grocery Sales Forecasting Challenge for Azubian
 
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/justinjabo250?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://github.com/ikoghoemmanuell/Grocery-Store-Forecasting-Challenge-For-Azubian/blob/main/Article.md)
+[![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/blob/main/Article.md)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/ikoghoemmanuell/SEER-A_sales_forecasting_app)
 [![Website](https://img.shields.io/badge/My-Website-darkgreen)](https://emmanuelikogho.netlify.app/)
 
 Increase sales of groceries using exploratory data analysis and machine learning.
 
-![grocery-sales-challenge-readme-azubian-](https://github.com/ikoghoemmanuell/Grocery-Store-Forecasting-Challenge-For-Azubian/assets/102419217/88f2040f-72a1-4bb0-936a-f2520ae73a2f)
+![ride-the-cart-at-the-market](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/assets/115732734/7bff8484-afb0-4581-8730-dd45ea242d63)
 
 
 ## Project Overview
@@ -170,7 +170,7 @@ streamlit run app.py
 
 # screenshot
 
-![seer-sales-prediction-for-azubian](https://github.com/ikoghoemmanuell/Grocery-Store-Forecasting-Challenge-For-Azubian/assets/102419217/933f5f5b-2976-4499-bd48-050c1bab5bd0)
+![seer-sales-prediction-for-azubian](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/tree/main/assets)
 
 
 ## 👏 Support
