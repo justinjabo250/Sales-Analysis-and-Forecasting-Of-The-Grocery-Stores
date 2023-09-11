@@ -1,5 +1,5 @@
 # Focast Grocery Sales Using Machine Learning 
-![grocery-sales-challenge-readme-azubian-](https://github.com/ikoghoemmanuell/Grocery-Store-Forecasting-Challenge-For-Azubian/assets/102419217/621cc943-14ca-4148-bed5-85afd96b6c96)
+![ride-the-cart-at-the-market](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/assets/115732734/7bff8484-afb0-4581-8730-dd45ea242d63)
  
 
 
