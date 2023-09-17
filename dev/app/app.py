@@ -26,7 +26,7 @@ encoder = joblib.load(encoder_path)
 st.set_page_config(page_title="Sales Prediction App", page_icon="fas fa-chart-line", layout="wide", initial_sidebar_state="auto")
 
 # Loading GIF
-gif_url = "https://raw.githubusercontent.com/Gilbert-B/Forecasting-Sales/main/app/salesgif.gif"
+gif_url = "https://user-images.githubusercontent.com/115732734/267077523-6cfd92a2-4d1f-42f3-ac03-8dfaeb99e7a1.gif"
 
 # Set up sidebar
 st.sidebar.header('Navigation')
@@ -131,7 +131,7 @@ if choice == 'Home':
 # About section
 elif choice == 'About':
     # Load the banner image
-    banner_image_url = "https://guardian.ng/wp-content/uploads/2017/03/Sales-targets.jpg"
+    banner_image_url = "https://user-images.githubusercontent.com/115732734/268518439-6a7b302f-01d8-431c-bf39-5bd484503547.jpg"
  
     # Display the banner image
     st.image(
