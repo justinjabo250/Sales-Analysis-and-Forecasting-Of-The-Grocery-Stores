@@ -176,7 +176,9 @@ streamlit run app.py
 
 ![Sales Prediction__Video](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/assets/115732734/7be5a8eb-eca4-417b-b837-09df385670c7)
 
+[You can click Here to view the Appication Demo](https://drive.google.com/file/d/18OPT1AAo4vJPFICgn7bwAE5ZBpx9GATT/view?usp=sharing)
 
+[![Application Demo](https://img.shields.io/badge/My-Website-darkgreen)](https://drive.google.com/file/d/18OPT1AAo4vJPFICgn7bwAE5ZBpx9GATT/view?usp=sharing)
 
 ## 👏 Support
 
