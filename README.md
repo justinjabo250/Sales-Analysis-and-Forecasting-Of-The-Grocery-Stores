@@ -174,7 +174,9 @@ streamlit run app.py
 
 # screenshot
 
-![seer-sales-prediction-for-azubian](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/tree/main/assets)
+![Sales Prediction__Video](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/assets/115732734/7be5a8eb-eca4-417b-b837-09df385670c7)
+
+[Click here to view the Screenshot link](https://drive.google.com/file/d/1qpw5Rer4jiKS97QKkopdnfbwoGCPUm_Q/view?usp=sharing)
 
 
 ## 👏 Support
