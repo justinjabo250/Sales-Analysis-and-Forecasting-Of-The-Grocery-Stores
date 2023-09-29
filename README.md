@@ -9,7 +9,7 @@
 
 Increase sales of groceries using exploratory data analysis and machine learning.
 
-![ride-the-cart-at-the-market](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/assets/115732734/7bff8484-afb0-4581-8730-dd45ea242d63)
+![Sales_Groceryy](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/assets/115732734/43fd5fd2-958d-4652-b0da-111476cc5ff7) ![ride-the-cart-at-the-market](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/assets/115732734/7bff8484-afb0-4581-8730-dd45ea242d63) ![Sales_Grocery_y](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores/assets/115732734/74825919-708a-4def-a98a-8974ae79ffc9)
 
 
 ## Project Overview
