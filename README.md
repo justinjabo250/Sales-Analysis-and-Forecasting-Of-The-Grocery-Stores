@@ -190,12 +190,12 @@ You contribution, critism etc are welcome. We are willing to colaborate with any
 
 ## Contact
 
-- ![Justin Jabo](Justin Jabo)
-- ![Alex Saruni Lodaru](Alex Saruni Lodaru)
-- ![Stephen Arhin-Aidoo](Stephen Arhin-Aidoo)
-- ![Marydiana Njeri Njoroge])(Marydiana Njeri Njoroge)
-- ![Wycliffe Omondi Ayodo](Wycliffe Omondi Ayodo)
-- ![Wycliffe Omondi Ayodo](Wycliffe Omondi Ayodo)
+- [Justin Jabo](Justin Jabo)
+- [Alex Saruni Lodaru](Alex Saruni Lodaru)
+- [Stephen Arhin-Aidoo](Stephen Arhin-Aidoo)
+- [Marydiana Njeri Njoroge])(Marydiana Njeri Njoroge)
+- [Wycliffe Omondi Ayodo](Wycliffe Omondi Ayodo)
+- [Wycliffe Omondi Ayodo](Wycliffe Omondi Ayodo)
 
 
 `Data Analyst`
