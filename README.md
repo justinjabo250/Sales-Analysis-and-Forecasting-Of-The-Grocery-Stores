@@ -6,7 +6,7 @@
 [![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@jabojustin250/sales-analysis-and-forecasting-of-the-grocery-stores-using-the-gradio-streamlit-application-and-34cb1b1fcd0a)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/Justin-J/Sales_Analysis_and_Forecasting_Of_The_Grocery_Stores)
 [![Website](https://img.shields.io/badge/My-Website-darkgreen)](https://justinjabo250.github.io/Developing-a-web-application-for-an-online-portfolio./)
-[![View GitHub Profile](https://img.shields.io/badge/GitHub-Profile-purple?logo=Medium)](https://github.com/justinjabo250?tab=repositories)
+[![View GitHub Profile](https://img.shields.io/badge/GitHub-Profile-purple?logo=Medium)](https://github.com/justinjabo250)
 
 Increase sales of groceries using exploratory data analysis and machine learning.
 
